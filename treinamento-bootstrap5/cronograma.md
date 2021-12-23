@@ -32,13 +32,16 @@ Curso gratuíto sobre o Básico de Bootstrap 5.
   - Tabelas 
   - Alerts 
   - Navbar 
+### [ Aula 03 - Finalizada ]
+- Forms (Parte 1)
+  - Visão Geral
+  - Form Control
+  - Select
+  - Checks, Radios e Switchs
 
-### [ Aula 03 ]
-- Forms
+## [ Aula 04 ]
 - Ícones
 - Grid
-
-### [ Aula 04 ]
 - Modais
 - Toasts
 
