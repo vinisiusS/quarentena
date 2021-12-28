@@ -38,8 +38,12 @@ Curso gratuíto sobre o Básico de Bootstrap 5.
   - Form Control
   - Select
   - Checks, Radios e Switchs
-
-## [ Aula 04 ]
+### [ Aula 04 - Finalizada ]
+-  Forms (Parte 2)
+  - Input group
+  - Floating Labels 
+### [ Aula 05 ]
+- Validators
 - Ícones
 - Grid
 - Modais
