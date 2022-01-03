@@ -42,11 +42,11 @@ Curso gratuíto sobre o Básico de Bootstrap 5.
 -  Forms (Parte 2)
   - Input group
   - Floating Labels 
-### [ Aula 05 ]
-- Validators
+### [ Aula 05 - Finalizada ]
 - Ícones
+- Modais 
+### [ Aula 06 ]
 - Grid
-- Modais
 - Toasts
 
 
